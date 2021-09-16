@@ -1,0 +1,8 @@
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\obj\Debug\netstandard2.0\BaseXamarin.AssemblyInfoInputs.cache
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\obj\Debug\netstandard2.0\BaseXamarin.AssemblyInfo.cs
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\obj\Debug\netstandard2.0\BaseXamarin.csproj.CoreCompileInputs.cache
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\bin\Debug\netstandard2.0\BaseXamarin.deps.json
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\bin\Debug\netstandard2.0\BaseXamarin.dll
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\bin\Debug\netstandard2.0\BaseXamarin.pdb
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\obj\Debug\netstandard2.0\BaseXamarin.dll
+E:\Git\Clone\BaseLib\BaseXamarin\BaseXamarin\obj\Debug\netstandard2.0\BaseXamarin.pdb

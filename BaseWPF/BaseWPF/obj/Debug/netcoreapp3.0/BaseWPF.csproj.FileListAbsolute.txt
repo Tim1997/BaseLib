@@ -1,0 +1,4 @@
+E:\Git\Clone\BaseLib\BaseWPF\BaseWPF\obj\Debug\netcoreapp3.0\BaseWPF.csproj.AssemblyReference.cache
+E:\Git\Clone\BaseLib\BaseWPF\BaseWPF\obj\Debug\netcoreapp3.0\BaseWPF.AssemblyInfoInputs.cache
+E:\Git\Clone\BaseLib\BaseWPF\BaseWPF\obj\Debug\netcoreapp3.0\BaseWPF.AssemblyInfo.cs
+E:\Git\Clone\BaseLib\BaseWPF\BaseWPF\obj\Debug\netcoreapp3.0\BaseWPF.csproj.CoreCompileInputs.cache
